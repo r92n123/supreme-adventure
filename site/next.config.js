@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Rohan Technologies',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://r92n123.kasmweb.com/supreme-adventure',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
